@@ -3,4 +3,4 @@ on:
 
 jobs:
   job-name:
-    uses: anthms/basic-published-action-anthms/.github/workflows/blank.yml@main
+    uses: anthmmatic/basic-published-action-anthms/.github/workflows/blank.yml@main
