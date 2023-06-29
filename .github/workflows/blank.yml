@@ -2,5 +2,5 @@ on:
   workflow_dispatch:
 
 jobs:
-  job-name:
+  job-one:
     uses: anthmmatic/basic-published-action-anthms/.github/workflows/blank.yml@main
