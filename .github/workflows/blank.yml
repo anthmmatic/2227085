@@ -3,6 +3,4 @@ on:
 
 jobs:
   job-name:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anthms/basic-published-action-anthms/.github/workflows/blank.yml@main
+    uses: anthms/basic-published-action-anthms/.github/workflows/blank.yml@main
